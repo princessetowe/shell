@@ -1,1 +1,1 @@
-This repositoru contains tasks for the simple shell project
+This repository contains tasks for the simple shell project
